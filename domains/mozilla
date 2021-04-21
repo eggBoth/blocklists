@@ -19,10 +19,13 @@ install.mozilla.org
 location.services.mozilla.com
 malware-error.mozilla.com
 mozilla.com
+mozilla.net
 mozilla.org
+mozit.cloud
 onyx_tiles.stage.mozaws.net
 phish-error.mozilla.com
 phish-report.mozilla.com
+prod-tp.sumo.mozit.cloud
 push.services.mozilla.com
 search.services.mozilla.com
 self-repair.mozilla.org

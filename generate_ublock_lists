@@ -7,5 +7,5 @@ for i in domains/*; do
 
 	printf "Generating %s list...\n" "$corp"
 
-	sed "s/^/||/ ; s/$/\^\$important/ ; 1 i\Title: $title\n" $i >ublock/"$corp"
+	sed "s/^/||/ ; s/$/\^\$important/ ; 1 i\# Title: $title\n" $i >ublock/"$corp"
 done

@@ -21,10 +21,13 @@
 ||location.services.mozilla.com^$important
 ||malware-error.mozilla.com^$important
 ||mozilla.com^$important
+||mozilla.net^$important
 ||mozilla.org^$important
+||mozit.cloud^$important
 ||onyx_tiles.stage.mozaws.net^$important
 ||phish-error.mozilla.com^$important
 ||phish-report.mozilla.com^$important
+||prod-tp.sumo.mozit.cloud^$important
 ||push.services.mozilla.com^$important
 ||search.services.mozilla.com^$important
 ||self-repair.mozilla.org^$important

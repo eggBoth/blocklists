@@ -104,6 +104,7 @@
 ||td.twitter.com^$important
 ||ton.twimg.com^$important
 ||transparency.twitter.com^$important
+||twimg.com^$important
 ||twimg0-0.akamaihd.net^$important
 ||twitter.com^$important
 ||upload.twitter.com^$important

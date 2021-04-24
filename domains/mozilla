@@ -12,6 +12,7 @@ detectportal.firefox.com
 discovery.addons.mozilla.org
 experiments.mozilla.org
 fhr.cdn.mozilla.net
+firefox.com
 ftp.mozilla.org
 incoming.telemetry.mozilla.org
 input.mozilla.org
@@ -43,3 +44,5 @@ versioncheck-bg.addons.mozilla.org
 versioncheck.addons.mozilla.org
 webextensions.settings.services.mozilla.com
 wiki.mozilla.org
+www.firefox.com
+www.mozilla.org

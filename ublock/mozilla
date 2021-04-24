@@ -14,6 +14,7 @@
 ||discovery.addons.mozilla.org^$important
 ||experiments.mozilla.org^$important
 ||fhr.cdn.mozilla.net^$important
+||firefox.com^$important
 ||ftp.mozilla.org^$important
 ||incoming.telemetry.mozilla.org^$important
 ||input.mozilla.org^$important
@@ -45,3 +46,5 @@
 ||versioncheck.addons.mozilla.org^$important
 ||webextensions.settings.services.mozilla.com^$important
 ||wiki.mozilla.org^$important
+||www.firefox.com^$important
+||www.mozilla.org^$important

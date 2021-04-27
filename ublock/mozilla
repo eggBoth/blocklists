@@ -8,6 +8,7 @@
 ||blocked.cdn.mozilla.net^$important
 ||blocklist.addons.mozilla.org^$important
 ||code.cdn.mozilla.net^$important
+||content-signature-2.cdn.mozilla.net^$important
 ||content.cdn.mozilla.net^$important
 ||crash-stats.mozilla.com^$important
 ||detectportal.firefox.com^$important
@@ -15,6 +16,7 @@
 ||experiments.mozilla.org^$important
 ||fhr.cdn.mozilla.net^$important
 ||firefox.com^$important
+||firefox.settings.services.mozilla.com^$important
 ||ftp.mozilla.org^$important
 ||incoming.telemetry.mozilla.org^$important
 ||input.mozilla.org^$important
@@ -42,6 +44,7 @@
 ||telemetry.mozilla.org^$important
 ||tiles.services.mozilla.com^$important
 ||token.services.mozilla.com^$important
+||tracking-protection.cdn.mozilla.net^$important
 ||versioncheck-bg.addons.mozilla.org^$important
 ||versioncheck.addons.mozilla.org^$important
 ||webextensions.settings.services.mozilla.com^$important

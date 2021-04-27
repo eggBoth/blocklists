@@ -6,6 +6,7 @@ auth.services.mozilla.com
 blocked.cdn.mozilla.net
 blocklist.addons.mozilla.org
 code.cdn.mozilla.net
+content-signature-2.cdn.mozilla.net
 content.cdn.mozilla.net
 crash-stats.mozilla.com
 detectportal.firefox.com
@@ -13,6 +14,7 @@ discovery.addons.mozilla.org
 experiments.mozilla.org
 fhr.cdn.mozilla.net
 firefox.com
+firefox.settings.services.mozilla.com
 ftp.mozilla.org
 incoming.telemetry.mozilla.org
 input.mozilla.org
@@ -40,6 +42,7 @@ telemetry-experiment.cdn.mozilla.net
 telemetry.mozilla.org
 tiles.services.mozilla.com
 token.services.mozilla.com
+tracking-protection.cdn.mozilla.net
 versioncheck-bg.addons.mozilla.org
 versioncheck.addons.mozilla.org
 webextensions.settings.services.mozilla.com

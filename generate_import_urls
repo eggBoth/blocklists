@@ -2,7 +2,7 @@
 set -e
 
 output_file="ublock/import_urls"
-url_prefix="https://raw.githubusercontent.com/DisabledOctopus/block-gafam/master/ublock/"
+url_prefix="https://raw.githubusercontent.com/DisabledOctopus/blocklists/master/ublock/"
 
 {
 for file in domains/*; do

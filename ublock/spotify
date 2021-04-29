@@ -1,6 +1,6 @@
 # Title: Spotify
 
-||apresolve.spotify.com^$important
-||gew-spclient.spotify.com^$important
-||open.spotify.com^$important
-||spotify.com^$important
+||apresolve.spotify.com^$3p
+||gew-spclient.spotify.com^$3p
+||open.spotify.com^$3p
+||spotify.com^$3p

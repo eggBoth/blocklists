@@ -245,6 +245,7 @@
 ||gfx.ms^$important
 ||github.com^$important
 ||github.githubassets.com^$important
+||githubusercontent.com^$important
 ||go.microsoft.com^$important
 ||go2.microsoft.com^$important
 ||gotyoursoul.com^$important

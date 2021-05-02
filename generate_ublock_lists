@@ -9,7 +9,7 @@ for file in domains/*; do
 
 	{
 	sed "s/^/||/ ; s/$/\^/" "$file" |
-		sed "s/$/\$important/" |
+		sed "s/$/\$3p/" |
 		sed "1 i\# Title: $title\n"
 	} >ublock/"$corp"
 

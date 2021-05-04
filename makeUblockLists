@@ -1,0 +1,16 @@
+#!/bin/sh
+set -e
+
+for file in domains/*; do
+	corp="$(printf "%s" "$file" | sed "s/domains\///")"
+	title="$(printf "%s" "$corp" | sed "s/^./\U&/")"
+
+	printf "Generating %s list...\n" "$corp"
+
+	{
+	sed "s/^/||/ ; s/$/\^/" "$file" |
+		sed "s/$/\$important/" |
+		sed "1 i\# Title: $title\n"
+	} >ublock/"$corp"
+
+done

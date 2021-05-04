@@ -17,7 +17,6 @@
 ||agent.microsoft.com^$important
 ||ailogiq.com^$important
 ||alerts.microsoft.com^$important
-||alive.github.com^$important
 ||answers-test.microsoft.com^$important
 ||answers.microsoft.com^$important
 ||anti-spamtools.org^$important
@@ -32,7 +31,6 @@
 ||atlassolutions.com^$important
 ||audible.com^$important
 ||autodiscover.microsoft.com^$important
-||avatars.githubusercontent.com^$important
 ||axis.microsoft.com^$important
 ||azure-test.net^$important
 ||azure.com^$important
@@ -243,9 +241,6 @@
 ||geotrust.com^$important
 ||getofficelive.co.za^$important
 ||gfx.ms^$important
-||github.com^$important
-||github.githubassets.com^$important
-||githubusercontent.com^$important
 ||go.microsoft.com^$important
 ||go2.microsoft.com^$important
 ||gotyoursoul.com^$important
@@ -763,7 +758,6 @@
 ||projectzerofriction.org^$important
 ||public.microsoft.com^$important
 ||puretracks.com^$important
-||raw.githubusercontent.com^$important
 ||rdg.microsoft.com^$important
 ||rdst-internal.net^$important
 ||realtydesktop.net^$important

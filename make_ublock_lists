@@ -3,14 +3,13 @@ set -e
 
 for file in domains/*; do
 
-	corp="$(printf "%s" "$file" | sed "s/domains\///")"
-	title="$(printf "%s" "$corp" | sed "s/^./\U&/")"
+	company="$(printf "%s" "$file" | sed "s/domains\///")"
+	title="$(printf "%s" "$company" | sed "s/^./\U&/")"
 
-	printf "Generating %s list...\n" "$corp"
+	printf "Generating %s list...\n" "$company"
 
-	{ sed "s/^/||/ ; s/$/\^/" "$file" |
-		#sed "s/$/\$important/" |
-		sed "1 i\# Title: $title\n"
-	} >ublock/"$corp"
+	sed "s/^/||/ ; 
+		s/$/\^\$important/ ;
+		1 i\# Title: $title\n" "$file" >ublock/"$company"
 
 done

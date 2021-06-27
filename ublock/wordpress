@@ -1,12 +1,12 @@
 # Title: Wordpress
 
-||c0.wp.com^
-||i0.wp.com^
-||i1.wp.com^
-||i2.wp.com^
-||s0.wp.com^
-||s1.wp.com^
-||widgets.wp.com^
-||wordpress.com^
-||wordpress.org^
-||wp.com^
+||c0.wp.com^$important
+||i0.wp.com^$important
+||i1.wp.com^$important
+||i2.wp.com^$important
+||s0.wp.com^$important
+||s1.wp.com^$important
+||widgets.wp.com^$important
+||wordpress.com^$important
+||wordpress.org^$important
+||wp.com^$important

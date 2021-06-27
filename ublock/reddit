@@ -1,13 +1,13 @@
 # Title: Reddit
 
-||b.thumbs.redditmedia.com^
-||gateway.reddit.com^
-||gql.reddit.com^
-||i.redd.it^
-||old.reddit.com^
-||out.reddit.com^
-||redd.it^
-||strapi.reddit.com^
-||styles.redditmedia.com^
-||www.reddit.com^
-||www.redditstatic.com^
+||b.thumbs.redditmedia.com^$important
+||gateway.reddit.com^$important
+||gql.reddit.com^$important
+||i.redd.it^$important
+||old.reddit.com^$important
+||out.reddit.com^$important
+||redd.it^$important
+||strapi.reddit.com^$important
+||styles.redditmedia.com^$important
+||www.reddit.com^$important
+||www.redditstatic.com^$important

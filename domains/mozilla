@@ -21,14 +21,17 @@ input.mozilla.org
 install.mozilla.org
 location.services.mozilla.com
 malware-error.mozilla.com
+mozaws.net
 mozilla.com
 mozilla.net
 mozilla.org
 mozit.cloud
 onyx_tiles.stage.mozaws.net
+outgoing.prod.mozaws.net
 phish-error.mozilla.com
 phish-report.mozilla.com
 prod-tp.sumo.mozit.cloud
+prod.mozaws.net
 push.services.mozilla.com
 search.services.mozilla.com
 self-repair.mozilla.org

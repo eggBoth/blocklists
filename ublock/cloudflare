@@ -13,6 +13,7 @@
 ||clark.ns.cloudflare.com^$important
 ||cloudflare.com^$important
 ||cloudflare.net^$important
+||cloudflareinsights.com^$important
 ||dahlia.ns.cloudflare.com^$important
 ||dave.ns.cloudflare.com^$important
 ||dawn.ns.cloudflare.com^$important
@@ -49,8 +50,10 @@
 ||pam.ns.cloudflare.com^$important
 ||rob.ns.cloudflare.com^$important
 ||sara.ns.cloudflare.com^$important
+||static.cloudflareinsights.com^$important
 ||support.cloudflare.com^$important
 ||uma.ns.cloudflare.com^$important
+||unpkg.com^$important
 ||whois.cloudflare.com^$important
 ||will.ns.cloudflare.com^$important
 ||www.cloudflare.com^$important

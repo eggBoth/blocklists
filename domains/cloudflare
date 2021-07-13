@@ -11,6 +11,7 @@ cheryl.ns.cloudflare.com
 clark.ns.cloudflare.com
 cloudflare.com
 cloudflare.net
+cloudflareinsights.com
 dahlia.ns.cloudflare.com
 dave.ns.cloudflare.com
 dawn.ns.cloudflare.com
@@ -47,8 +48,10 @@ olga.ns.cloudflare.com
 pam.ns.cloudflare.com
 rob.ns.cloudflare.com
 sara.ns.cloudflare.com
+static.cloudflareinsights.com
 support.cloudflare.com
 uma.ns.cloudflare.com
+unpkg.com
 whois.cloudflare.com
 will.ns.cloudflare.com
 www.cloudflare.com

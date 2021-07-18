@@ -1,6 +1,7 @@
 accounts.firefox.com
 activations.cdn.mozilla.net
 addons.mozilla.org
+assets.mofoprod.net
 aus5.mozilla.org
 auth.services.mozilla.com
 blocked.cdn.mozilla.net
@@ -15,13 +16,16 @@ experiments.mozilla.org
 fhr.cdn.mozilla.net
 firefox.com
 firefox.settings.services.mozilla.com
+foundation.mozilla.org
 ftp.mozilla.org
 incoming.telemetry.mozilla.org
 input.mozilla.org
 install.mozilla.org
 location.services.mozilla.com
 malware-error.mozilla.com
+mofoprod.net
 mozaws.net
+mozgcp.net
 mozilla.com
 mozilla.net
 mozilla.org
@@ -35,6 +39,7 @@ prod.mozaws.net
 push.services.mozilla.com
 search.services.mozilla.com
 self-repair.mozilla.org
+sentry.prod.mozaws.net
 services.addons.mozilla.org
 services.mozilla.com
 setup.services.mozilla.com

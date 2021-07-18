@@ -3,6 +3,7 @@
 ||accounts.firefox.com^$important
 ||activations.cdn.mozilla.net^$important
 ||addons.mozilla.org^$important
+||assets.mofoprod.net^$important
 ||aus5.mozilla.org^$important
 ||auth.services.mozilla.com^$important
 ||blocked.cdn.mozilla.net^$important
@@ -17,13 +18,16 @@
 ||fhr.cdn.mozilla.net^$important
 ||firefox.com^$important
 ||firefox.settings.services.mozilla.com^$important
+||foundation.mozilla.org^$important
 ||ftp.mozilla.org^$important
 ||incoming.telemetry.mozilla.org^$important
 ||input.mozilla.org^$important
 ||install.mozilla.org^$important
 ||location.services.mozilla.com^$important
 ||malware-error.mozilla.com^$important
+||mofoprod.net^$important
 ||mozaws.net^$important
+||mozgcp.net^$important
 ||mozilla.com^$important
 ||mozilla.net^$important
 ||mozilla.org^$important
@@ -37,6 +41,7 @@
 ||push.services.mozilla.com^$important
 ||search.services.mozilla.com^$important
 ||self-repair.mozilla.org^$important
+||sentry.prod.mozaws.net^$important
 ||services.addons.mozilla.org^$important
 ||services.mozilla.com^$important
 ||setup.services.mozilla.com^$important

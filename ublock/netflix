@@ -1,16 +1,16 @@
 # Title: Netflix
 
-||assets.nflxext.com^$important
-||codex.nflxext.com^$important
-||ichnaea-web.netflix.com^$important
-||ipv4-c048-nyc005-ix.1.oca.nflxvideo.net^$important
-||ipv4-c121-ams001-ix.1.oca.nflxvideo.net^$important
-||ipv4-c144-cdg001-ix.1.oca.nflxvideo.net^$important
-||ipv4-c166-ams001-ix.1.oca.nflxvideo.net^$important
-||ipv4-c176-cdg001-ix.1.oca.nflxvideo.net^$important
-||netflix.com^$important
-||nflxext.com^$important
-||nflxso.net^$important
-||nflxvideo.net^$important
-||occ-0-56-55.1.nflxso.net^$important
-||www.netflix.com^$important
+||assets.nflxext.com^$3p
+||codex.nflxext.com^$3p
+||ichnaea-web.netflix.com^$3p
+||ipv4-c048-nyc005-ix.1.oca.nflxvideo.net^$3p
+||ipv4-c121-ams001-ix.1.oca.nflxvideo.net^$3p
+||ipv4-c144-cdg001-ix.1.oca.nflxvideo.net^$3p
+||ipv4-c166-ams001-ix.1.oca.nflxvideo.net^$3p
+||ipv4-c176-cdg001-ix.1.oca.nflxvideo.net^$3p
+||netflix.com^$3p
+||nflxext.com^$3p
+||nflxso.net^$3p
+||nflxvideo.net^$3p
+||occ-0-56-55.1.nflxso.net^$3p
+||www.netflix.com^$3p

@@ -9,7 +9,7 @@ for file in domains/*; do
 	printf "Generating %s list...\n" "$company"
 
 	sed "s/^/||/ ; 
-		s/$/\^\$important/ ;
+		s/$/\^\$3p/ ;
 		1 i\# Title: $title\n" "$file" >ublock/"$company"
 
 done

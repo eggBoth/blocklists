@@ -1,14 +1,14 @@
 # Title: Wordpress
 
-||c0.wp.com^$3p
-||i0.wp.com^$3p
-||i1.wp.com^$3p
-||i2.wp.com^$3p
-||s.w.org^$3p
-||s0.wp.com^$3p
-||s1.wp.com^$3p
-||w.org^$3p
-||widgets.wp.com^$3p
-||wordpress.com^$3p
-||wordpress.org^$3p
-||wp.com^$3p
+||c0.wp.com^$important
+||i0.wp.com^$important
+||i1.wp.com^$important
+||i2.wp.com^$important
+||s.w.org^$important
+||s0.wp.com^$important
+||s1.wp.com^$important
+||w.org^$important
+||widgets.wp.com^$important
+||wordpress.com^$important
+||wordpress.org^$important
+||wp.com^$important

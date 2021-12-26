@@ -8,6 +8,7 @@
 ||auth.services.mozilla.com^$important
 ||blocked.cdn.mozilla.net^$important
 ||blocklist.addons.mozilla.org^$important
+||bugzilla.mozilla.org^$important
 ||code.cdn.mozilla.net^$important
 ||content-signature-2.cdn.mozilla.net^$important
 ||content.cdn.mozilla.net^$important
@@ -18,11 +19,15 @@
 ||fhr.cdn.mozilla.net^$important
 ||firefox.com^$important
 ||firefox.settings.services.mozilla.com^$important
+||firefoxusercontent.com^$important
+||forums.mozillazine.org^$important
 ||foundation.mozilla.org^$important
 ||ftp.mozilla.org^$important
 ||incoming.telemetry.mozilla.org^$important
 ||input.mozilla.org^$important
 ||install.mozilla.org^$important
+||itsre-sumo.mozilla.net^$important
+||kb.mozillazine.org^$important
 ||location.services.mozilla.com^$important
 ||malware-error.mozilla.com^$important
 ||mofoprod.net^$important
@@ -46,6 +51,7 @@
 ||services.mozilla.com^$important
 ||setup.services.mozilla.com^$important
 ||shavar.services.mozilla.com^$important
+||static-media-prod-cdn.itsre-sumo.mozilla.net^$important
 ||support.mozilla.org^$important
 ||tbpl.mozilla.org^$important
 ||telemetry-experiment.cdn.mozilla.net^$important
@@ -53,6 +59,7 @@
 ||tiles.services.mozilla.com^$important
 ||token.services.mozilla.com^$important
 ||tracking-protection.cdn.mozilla.net^$important
+||user-media-prod-cdn.itsre-sumo.mozilla.net^$important
 ||versioncheck-bg.addons.mozilla.org^$important
 ||versioncheck.addons.mozilla.org^$important
 ||webextensions.settings.services.mozilla.com^$important

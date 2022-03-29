@@ -1,17 +1,17 @@
 ! Title: Amazon
 ! Expires: 7 days
 
-||amazon.ca^
-||amazon.co.jp^
-||amazon.co.uk^
-||amazon.com^
-||amazon.de^
-||amazon.es^
-||amazon.fr^
-||amazon.in^
-||amazon.it^
-||amazonaws.com^
-||amzn.to^
-||cloudfront.net^
-||imdb.com^
-||twitch.tv^
+||amazon.ca^$important
+||amazon.co.jp^$important
+||amazon.co.uk^$important
+||amazon.com^$important
+||amazon.de^$important
+||amazon.es^$important
+||amazon.fr^$important
+||amazon.in^$important
+||amazon.it^$important
+||amazonaws.com^$important
+||amzn.to^$important
+||cloudfront.net^$important
+||imdb.com^$important
+||twitch.tv^$important

@@ -2,6 +2,7 @@
 ! Expires: 7 days
 
 ||bing.com^$important
+||bing.net^$important
 ||linkedin.com^$important
 ||microsoft.com^$important
 ||microsoftonline.com^$important

@@ -5,12 +5,14 @@
 ||blogger.com^$important
 ||blogspot.com^$important
 ||doubleclick.net^$important
+||feedburner.com^$important
 ||ggpht.com^$important
 ||gmail.com^$important
 ||goo.gl^$important
 ||google-analytics.com^$important
 ||google.com^$important
 ||google.fr^$important
+||google^$important
 ||googleadservices.com^$important
 ||googleapis.com^$important
 ||googlesyndication.com^$important

@@ -1,0 +1,6 @@
+! Title: Reddit
+! Expires: 7 days
+
+||reddit.com^$important
+||redd.it^$important
+||redditmedia.com^$important

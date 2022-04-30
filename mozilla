@@ -2,6 +2,9 @@
 ! Expires: 7 days
 
 ||firefox.com^$important
+||getfirefox.com^$important
 ||mozilla.com^$important
 ||mozilla.net^$important
 ||mozilla.org^$important
+||mozillazine.org^$important
+||spreadfirefox.com^$important

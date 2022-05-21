@@ -1,5 +1,5 @@
 ! Title: Cloudflare
-! Expires: 7 days
+! Expires: 14 days
 
 ||cloudflare.com^$important
 ||cloudflareinsights.com^$important

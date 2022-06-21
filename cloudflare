@@ -1,0 +1,7 @@
+! Title: Cloudflare
+! Expires: 14 days
+
+||cloudflare.com^$important
+||cloudflare.net^$important
+||cloudflareinsights.com^$important
+||unpkg.com^$important
